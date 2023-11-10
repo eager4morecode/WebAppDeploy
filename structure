@@ -1,0 +1,7 @@
+|-- scalable-web-app-aws
+    |-- main.tf
+    |-- variables.tf
+    |-- outputs.tf
+    |-- terraform.tfvars
+    |-- userdata.sh
+    |-- README.md
